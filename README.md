@@ -1,4 +1,10 @@
-# gsap
+# Vue and GSAP Demo
+
+Simple SVG animation for learning purposes.
+
+
+## Preview
+![Demo](./preview/demo.gif)
 
 ## Project setup
 ```
